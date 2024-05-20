@@ -15,3 +15,5 @@ func romanToInt(s string) int {
     }
     return sum
 }
+
+// NOTE: Great runtime!
