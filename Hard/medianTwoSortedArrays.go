@@ -1,6 +1,4 @@
-import (
-    "sort"
-)
+import "sort"
 
 func joinArray(array1 []int, array2 []int) []int {
     for i := 0; i < len(array2); i++ {
