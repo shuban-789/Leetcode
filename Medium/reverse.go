@@ -1,10 +1,8 @@
 package main
 
-import (
-	"fmt"
-	"strconv"
-	"strings"
-)
+import "fmt"
+import "strconv"
+import "strings"
 
 func reverse(x int) int {
 	var xrev []string
